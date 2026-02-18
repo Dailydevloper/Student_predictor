@@ -43,6 +43,6 @@ Random Forest performed best on this dataset.
 Python, Pandas, Scikit-learn, TensorFlow, Matplotlib
 
 ## How to Run
-
+```bash
 cd src
 python train.py
